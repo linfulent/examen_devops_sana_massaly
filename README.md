@@ -20,8 +20,8 @@ Suivez ces étapes pour exécuter le programme:
 
 ## Tickets
 
-- [Ticket 1: Ajouter la fonctionnalité de tracer la courbe x²](link_to_issue_1)
-- [Ticket 2: Ajouter la fonctionnalité de tracer la courbe x³](link_to_issue_2)
+- [Ticket 1: Ajouter la fonctionnalité de tracer la courbe x²]([link_to_issue_1](https://github.com/linfulent/examen_devops_sana_massaly/issues/1))
+- [Ticket 2: Ajouter la fonctionnalité de tracer la courbe x³]([link_to_issue_2](https://github.com/linfulent/examen_devops_sana_massaly/issues/2))
 - ...
 
 ## Licence
